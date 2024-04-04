@@ -1,7 +1,5 @@
+import 'package:firebse_list_shoping/models/category.dart';
 import 'package:flutter/material.dart';
-import 'package:shpping_list/models/category.dart';
-
-
 
 const categories = {
   Categories.vegetables: Category(
